@@ -8,7 +8,7 @@
 <h5 id="request-object-example">Request object example</h5>
 <pre class=" language-javascript"><code class="prism  language-javascript">	<span class="token punctuation">{</span>
 		URL<span class="token punctuation">:</span> <span class="token string">'https://cloud.hrtable.com/api/v1/admin/leave/list'</span><span class="token punctuation">,</span>
-		method<span class="token punctuation">:</span> <span class="token string">'GET'</span><span class="token punctuation">,</span>
+		method<span class="token punctuation">:</span> <span class="token string">'POST'</span><span class="token punctuation">,</span>
 		data<span class="token punctuation">:</span> <span class="token punctuation">{</span>
 			status<span class="token punctuation">:</span> <span class="token string">'pending'</span><span class="token punctuation">,</span> <span class="token comment">//all, pending, approved, rejected</span>
 		<span class="token punctuation">}</span>
@@ -34,7 +34,7 @@
 <h5 id="request-object-example-1">Request object example</h5>
 <pre class=" language-javascript"><code class="prism  language-javascript">	<span class="token punctuation">{</span>
 		URL<span class="token punctuation">:</span> <span class="token string">'https://cloud.hrtable.com/api/v1/admin/expense/list'</span><span class="token punctuation">,</span>
-		method<span class="token punctuation">:</span> <span class="token string">'GET'</span><span class="token punctuation">,</span>
+		method<span class="token punctuation">:</span> <span class="token string">'POST'</span><span class="token punctuation">,</span>
 		data<span class="token punctuation">:</span> <span class="token punctuation">{</span>
 			status<span class="token punctuation">:</span> <span class="token string">'pending'</span><span class="token punctuation">,</span> <span class="token comment">//all, pending, approved, rejected</span>
 		<span class="token punctuation">}</span>
@@ -61,7 +61,7 @@
 <h5 id="request-object-example-2">Request object example</h5>
 <pre class=" language-javascript"><code class="prism  language-javascript">	<span class="token punctuation">{</span>
 		URL<span class="token punctuation">:</span> <span class="token string">'https://cloud.hrtable.com/api/v1/admin/fieldwork/list'</span><span class="token punctuation">,</span>
-		method<span class="token punctuation">:</span> <span class="token string">'GET'</span><span class="token punctuation">,</span>
+		method<span class="token punctuation">:</span> <span class="token string">'POST'</span><span class="token punctuation">,</span>
 		data<span class="token punctuation">:</span> <span class="token punctuation">{</span>
 			status<span class="token punctuation">:</span> <span class="token string">'pending'</span><span class="token punctuation">,</span> <span class="token comment">//all, pending, approved, rejected</span>
 		<span class="token punctuation">}</span>
