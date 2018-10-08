@@ -25,6 +25,7 @@
 					name<span class="token punctuation">:</span> <span class="token string">'fullname'</span><span class="token punctuation">,</span>
 					designation<span class="token punctuation">:</span> <span class="token string">'Sale'</span><span class="token punctuation">,</span>
 					leave_type<span class="token punctuation">:</span> <span class="token string">'Leave'</span><span class="token punctuation">,</span>
+					avatar<span class="token punctuation">:</span>	<span class="token string">'url'</span> <span class="token comment">// url image profile</span>
 				<span class="token punctuation">}</span>
 			<span class="token punctuation">]</span>
 		<span class="token punctuation">}</span>
@@ -52,6 +53,7 @@
 					name<span class="token punctuation">:</span> <span class="token string">'fullname'</span><span class="token punctuation">,</span>
 					designation<span class="token punctuation">:</span> <span class="token string">'Sale'</span><span class="token punctuation">,</span>
 					expense_type<span class="token punctuation">:</span> <span class="token string">'ค่าเดินทาง'</span><span class="token punctuation">,</span>
+					avatar<span class="token punctuation">:</span>	<span class="token string">'url'</span> <span class="token comment">// url image profile</span>
 				<span class="token punctuation">}</span>
 			<span class="token punctuation">]</span>
 		<span class="token punctuation">}</span>
@@ -79,6 +81,7 @@
 					name<span class="token punctuation">:</span> <span class="token string">'fullname'</span><span class="token punctuation">,</span>
 					designation<span class="token punctuation">:</span> <span class="token string">'Sale'</span><span class="token punctuation">,</span>
 					location_name<span class="token punctuation">:</span> <span class="token string">'พารากอน'</span><span class="token punctuation">,</span>
+					avatar<span class="token punctuation">:</span>	<span class="token string">'url'</span> <span class="token comment">// url image profile</span>
 				<span class="token punctuation">}</span>
 			<span class="token punctuation">]</span>
 		<span class="token punctuation">}</span>
